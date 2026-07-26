@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/number-lcm",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Compute the least common multiple of safe integers.",
   "keywords": [
     "javascript",
